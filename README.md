@@ -6,13 +6,21 @@ We will tell you about all the prerequisites to run this application. Our task i
 1. **IoT device setup**:
    
 a. Writing code on raspberry pi 3
+
 b. Connecting Raspberry with Arduino Uno
-3. **Backend Smart Contract:**
+
+2. **Backend Smart Contract:**
+
 a. Write Smart contract
+
 b. Test the contract
+
 c. Deploy to the test network
-4. **Frontend web Application:**
+
+3. **Frontend web Application:**
+
 a. Launching the Web Application
+
 b. Interating with the smart contract on the blockchain
 
 We have done the majority of the work for you. With this guide, you will need to do some extra work, but very important that you just follow along. 
