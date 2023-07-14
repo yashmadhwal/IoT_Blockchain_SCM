@@ -4,13 +4,14 @@ Greetings all!
 This repository will help you to setup your IoT device. 
 We will tell you about all the prerequisites to run this application. Our task is divided into three parts:
 1. **IoT device setup**:
+   
 a. Writing code on raspberry pi 3
 b. Connecting Raspberry with Arduino Uno
-2. **Backend Smart Contract:**
+3. **Backend Smart Contract:**
 a. Write Smart contract
 b. Test the contract
 c. Deploy to the test network
-3. **Frontend web Application:**
+4. **Frontend web Application:**
 a. Launching the Web Application
 b. Interating with the smart contract on the blockchain
 
